@@ -1,11 +1,9 @@
 ion-content {
-  background: linear-gradient(to bottom,#ffffff, #ba8b );
+  background: linear-gradient(to bottom, #c70404b9, #e69e04b7)
 }
-
 h2 {
-  color: #ba8b;
+  color: #f7ff00
 }
-
-p  {
-  color: 
+p {
+  color: #0b0b0c
 }
