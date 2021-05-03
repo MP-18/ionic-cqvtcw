@@ -2,8 +2,13 @@ ion-content {
   background: linear-gradient(to bottom, #c70404b9, #e69e04b7)
 }
 h2 {
-  color: #0b0b0c
+  color: #0c0c0c;
+   font-family: Arial, 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+text-align: justify;
+  
 }
 p {
-  color: #3814bbce
+  color: #0c0b0cce;
+   font-family: Arial, 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+text-align: justify;
 }
